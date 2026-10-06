@@ -2,9 +2,12 @@
 
 单文件 HTML5 森林主题塔防游戏。黑暗兽群沿小径逼近**森林之心**，布置防御塔守住 20 波进攻即可胜利，通关后可继续无尽模式。
 
+🎮 **在线试玩**：<https://caiqing.github.io/forest-tower-defense/>
+
 ## 运行
 
-直接用浏览器打开 `index.html` 即可，无需构建、无外部依赖。
+- **在线玩**：直接访问 <https://caiqing.github.io/forest-tower-defense/>（GitHub Pages，随 main 分支自动发布）
+- **本地玩**：直接用浏览器打开 `index.html` 即可，无需构建、无外部依赖
 
 ## 玩法
 
